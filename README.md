@@ -1,6 +1,3 @@
-_This is a coursework on git taught by Udacity_
-
-# Git TutoriaL
 
 This is a coursework on git taught by Udacity_
 
