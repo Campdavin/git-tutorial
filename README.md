@@ -5,7 +5,7 @@ This is a coursework on git taught by Udacity_
 
 This repo contains a list of useful git commands as taught by the free online Udacity [course](https://www.udacity.com/course/version-control-with-git--ud123).
 
-<p align="center"><img src="git.jpeg" height= "200"/></p>
+<p align="center"><img src= "https://github.com/ggbong734/git-tutorial/blob/master/git.jpeg?raw=true" height= "200"/></p> 
 
 ## Version Control
 
